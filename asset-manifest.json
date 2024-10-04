@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactJs-language-translator/static/css/main.58afea25.css",
+    "main.js": "/ReactJs-language-translator/static/js/main.da2ffe6d.js",
+    "static/js/453.e26c38a7.chunk.js": "/ReactJs-language-translator/static/js/453.e26c38a7.chunk.js",
+    "index.html": "/ReactJs-language-translator/index.html",
+    "main.58afea25.css.map": "/ReactJs-language-translator/static/css/main.58afea25.css.map",
+    "main.da2ffe6d.js.map": "/ReactJs-language-translator/static/js/main.da2ffe6d.js.map",
+    "453.e26c38a7.chunk.js.map": "/ReactJs-language-translator/static/js/453.e26c38a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58afea25.css",
+    "static/js/main.da2ffe6d.js"
+  ]
+}
