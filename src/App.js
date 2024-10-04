@@ -1,25 +1,16 @@
-import logo from './logo.svg';
+import React from 'react';
+import Translator from './Translator';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+       <h1 style={{ fontSize: '2.5em', color: '#000',textAlign:'center' }}>language Translator With ReactJs</h1>
+      <Translator />
     </div>
   );
-}
+};
 
 export default App;
+
+
